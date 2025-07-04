@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
 # --- GANTI DENGAN KREDENSIAL AKUN TES ANDA ---
-USERNAME_ANDA = "hndynnd"
-PASSWORD_BENAR = "Faraamanda01"
+USERNAME_ANDA = "isi email anda disini"
+PASSWORD_BENAR = "password benar"
 PASSWORD_SALAH = "PasswordSalah123"
 # ---------------------------------------------
 
